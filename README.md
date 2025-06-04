@@ -17,7 +17,6 @@ Implementa o Merge Sort que ordena recursivamente um vetor em ordem decrescente,
 Geração de vetores aleatórios de tamanhos variados (ex: 20, 100, 1000 elementos), aplicação do Merge Sort e verificação automática da ordenação + print das etapas do processo.
 
 > 📁 Arquivo: `Questao2.py`  
-> 📸 Prints salvos na pasta `/screenshots`
 
 ---
 
